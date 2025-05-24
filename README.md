@@ -2,23 +2,18 @@
 
 
 
-# PETRONAS Scholars Dashboard
-
-## 📊 Overview
+# PETRONAS Education Sponsorship Program Dashboard
+---
+### 📘 Description
 This dashboard presents an analysis of PETRONAS Scholars using a simulated (dummy) database. It is designed to identify and segment target scholars for strategic development program planning.
-The dashboard provides valuable insights into scholars' profiles, including:
-1. Academic performance
-2. Program eligibility
-3. Key demographics
 
-## 🧩 Key Responsibilities
-- Ensure accurate and timely data entry into internal database.
-- Regularly update scholars' information monthly.
-- Maintain confidentiality of scholar data.
-- Identify trends to track target students for development programs.
-- Generate reports for management.
-
-## 🛠️ Tools 
+---
+### 🧠 Project Goals
+- To regularly update scholars' information monthly
+- To identify trends to track target students for development programs
+- To generate reports for management
+---
+### 🛠️ Tools 
 - Microsoft Excel
 - Power BI
 
